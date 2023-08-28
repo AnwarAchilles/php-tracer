@@ -3,7 +3,7 @@
     "description": "php error & data tracking tools",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "autoload": {
         "psr-4": {
             "Anwarachilles\\PhpTracer\\": "src/"
@@ -15,7 +15,7 @@
             "email": "hudorianwar07@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {}
 }
