@@ -1,0 +1,19 @@
+{
+    "name": "anwarachilles/php-tracer",
+    "description": "php error & data tracking tools",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Anwarachilles\\PhpTracer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnwarAchilles",
+            "email": "hudorianwar07@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
