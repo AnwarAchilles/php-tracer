@@ -16,11 +16,8 @@ Install php-tracer with composer
 
 // load vendor
 require_once "vendor/autoload.php";
-
 // load class
 use AnwarAchilles\PHPTracer;
-
-
 
 // data sample
 $string = "Hello World";
@@ -37,11 +34,8 @@ class Person {
 }
 $object_in_class = new Person;
 
-
-
 // init class
 $trace = new PHPTracer();
-
 // run tracer
 $trace->run([
   $string,
