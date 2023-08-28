@@ -15,6 +15,7 @@
             "email": "hudorianwar07@gmail.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {}
 }
