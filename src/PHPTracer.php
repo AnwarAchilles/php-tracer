@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PHPTracer;
+namespace Anwarachilles;
 
 
 class PHPTracer {
