@@ -7,7 +7,7 @@ simple PHP data tracking tools
 Install php-tracer with composer
 
 ```bash
-  composer require my-project
+composer require anwarachilles/php-tracer
 ```
 ## Usage/Examples
 
